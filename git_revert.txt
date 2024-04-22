@@ -1,1 +1,1 @@
-archivo ejemplo revert paso 2
+archivo ejemplo revert
